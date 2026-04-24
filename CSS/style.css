@@ -1,0 +1,259 @@
+.header-wrapper {
+    padding-top: 69px;
+    padding-left: 162px;
+    margin-right: 150px;
+    margin-bottom: 69px;
+}
+
+
+.logo-container {
+    display: inline-block;
+}
+
+
+.image-element {
+    vertical-align: middle;
+
+}
+
+.navigation {
+    display: inline-block;
+    margin-left: 150px;
+    width: 564px;
+    vertical-align: middle;
+
+}
+
+
+.li-item {
+    display: inline-block;
+    font-size: 20px;
+    color: #274C5B;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 100%;
+    margin-left: 25px;
+    
+}
+    
+.main-section-color {
+    background-color: #F9F8F8;
+}
+
+
+
+
+.h1-choose-us {
+    color: #7EB693;
+    width: 208px;
+    font-size: 36px;
+    font-family: "Yellowtail", cursive;
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: 6px;
+    margin-left: 260px;
+    vertical-align: left;
+    margin-top: 72.28px;
+
+    
+  
+
+}
+
+.h2-choose-us {
+    color: #274C5B;
+    font-family: "Roboto", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 50px;
+    width: 524px;
+    margin-left: 260px;
+    vertical-align: left;
+
+}
+
+.text-choose-us {
+    color: #525C60;
+    width: 671px;
+    margin-top: 25px;
+    margin-left: 260px;
+    vertical-align: left;
+    font-size: 18px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: 36px;
+    line-height: 1.5;
+
+}
+
+
+
+.product-feature {
+    display: inline-block;
+    background-color: #ECECEC;
+    margin-left: 260px;
+    width: 339px;
+    padding: 29px 91px 29px 27px;
+    margin-bottom: 12px;
+
+
+}
+
+.icon-circle {
+    display: inline-block;
+    margin-right: 2px;
+  
+}
+
+.feature-text {
+   display: inline-block;
+    vertical-align: top;
+    color: #274C5B;
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+
+
+}
+
+.mid-text-section {
+    margin-left: 260px;
+    width: 504px;
+    margin-bottom: 24px;
+
+}
+
+
+.mid-text {
+    padding-left: 60px;
+    font-size: 18px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.5;
+
+}
+
+
+.feature-text2 {
+    display: inline-block;
+    vertical-align: top;
+    color: #274C5B;
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.mid-text2 {
+    padding-left: 60px;
+    font-size: 18px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.5;
+    margin-bottom: 91px;
+
+}
+
+.mid-image-div {
+    display: inline-block;
+    margin-left: 51px;
+
+
+}
+
+.mid-image {
+    /* display: inline-block; */
+    width: 600px;
+    padding-top: 94.78px;
+}
+
+.content-left {
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+.content-right {
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+/* LASTLY */
+
+
+
+
+.footer-section {
+    background-color: #F9F8F8;
+    width: 100%;
+    /* text-align: left;     */
+
+}
+
+.policy-section {
+    width: 1118px;
+   margin: auto;
+    /* display: inline-block; */
+    /* text-align: left; */
+    font-size: 0;
+    margin-left: 401px;
+}
+
+
+.policy-box {
+   display: inline-block;
+   width: 257px;
+   height: 335px;
+   margin-bottom: 142px;
+   margin-right: 30px;
+   font-size: 18px;
+   vertical-align: top;
+   text-align: left;
+   background-color: #FFFFFF;
+
+}
+
+.policy-box:last-child {
+    margin-right: 0;
+}
+
+
+
+.return-policy {
+    font-size: 25px;
+    color: #274C5B;
+    font-family: "Roboto", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+      display: block;
+      padding-left: 22px;
+      padding-top: 29px;
+
+
+
+ 
+}
+
+.return-policy-text {
+font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  width: 184px;
+  text-align: center;
+  margin: 20px auto 0 auto;
+  line-height: 1.5;
+  display: block;
+  color: #525C60;
+  margin-right: 36px;
+
+
+
+}
+
