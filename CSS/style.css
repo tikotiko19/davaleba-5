@@ -36,25 +36,52 @@
     margin-left: 25px;
     
 }
-    
-.main-section-color {
-    background-color: #F9F8F8;
+
+/* next */
+
+.major-section {
+   width: 1920px;
+   margin: 0 auto;
+   background-color: #F9F8F8;
+
 }
 
+
+.main-section {
+    background-color: #F9F8F8;
+    max-width: 1400px;
+    margin-top: 72.28px;
+    margin-bottom: 91px;
+    margin: auto;
+
+
+
+}
+
+
+.content-left {
+    display: inline-block;
+    vertical-align: top;
+    width: 671px;
+    margin-top: 72.28px;
+    margin-left: auto;
+    
+
+
+}
 
 
 
 .h1-choose-us {
     color: #7EB693;
-    width: 208px;
     font-size: 36px;
     font-family: "Yellowtail", cursive;
     font-weight: 400;
     font-style: normal;
     margin-bottom: 6px;
-    margin-left: 260px;
-    vertical-align: left;
-    margin-top: 72.28px;
+
+
+  
 
     
   
@@ -67,18 +94,15 @@
     font-weight: 800;
     font-style: normal;
     font-size: 50px;
-    width: 524px;
-    margin-left: 260px;
-    vertical-align: left;
+    margin-right: 147px;
+    margin-bottom: 25px;
+
+   
 
 }
 
 .text-choose-us {
     color: #525C60;
-    width: 671px;
-    margin-top: 25px;
-    margin-left: 260px;
-    vertical-align: left;
     font-size: 18px;
     font-family: "Open Sans", sans-serif;
     font-weight: 400;
@@ -86,43 +110,42 @@
     margin-bottom: 36px;
     line-height: 1.5;
 
+
 }
 
 
 
 .product-feature {
-    display: inline-block;
     background-color: #ECECEC;
-    margin-left: 260px;
-    width: 339px;
     padding: 29px 91px 29px 27px;
     margin-bottom: 12px;
+    width: 339px;
+
+
 
 
 }
 
 .icon-circle {
-    display: inline-block;
     margin-right: 2px;
   
 }
 
 .feature-text {
-   display: inline-block;
-    vertical-align: top;
     color: #274C5B;
     font-size: 20px;
     font-family: "Roboto", sans-serif;
-  font-weight: 500;
-  font-style: normal;
+    font-weight: 500;
+    font-style: normal;
+    
+
 
 
 }
 
 .mid-text-section {
-    margin-left: 260px;
-    width: 504px;
     margin-bottom: 24px;
+
 
 }
 
@@ -134,18 +157,20 @@
     font-weight: 400;
     font-style: normal;
     line-height: 1.5;
+    padding-right: 167px;
+
+
 
 }
 
 
 .feature-text2 {
-    display: inline-block;
-    vertical-align: top;
     color: #274C5B;
     font-size: 20px;
     font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-style: normal;
+
 }
 
 .mid-text2 {
@@ -156,53 +181,34 @@
     font-style: normal;
     line-height: 1.5;
     margin-bottom: 91px;
+    padding-right: 167px;
+        
 
 }
 
 .mid-image-div {
     display: inline-block;
+    width: 678px;
+    vertical-align: top;
+    margin-top: 94.78px;
     margin-left: 51px;
 
 
 }
 
-.mid-image {
-    /* display: inline-block; */
-    width: 600px;
-    padding-top: 94.78px;
-}
 
-.content-left {
-    display: inline-block;
-    vertical-align: top;
 
-}
 
-.content-right {
-    display: inline-block;
-    vertical-align: top;
-
-}
 
 /* LASTLY */
 
 
 
-
-.footer-section {
-    background-color: #F9F8F8;
-    width: 100%;
-    /* text-align: left;     */
-
-}
-
 .policy-section {
     width: 1118px;
-   margin: auto;
-    /* display: inline-block; */
-    /* text-align: left; */
-    font-size: 0;
-    margin-left: 401px;
+   margin: 0 auto;
+   background-color: #F9F8F8;
+
 }
 
 
@@ -213,8 +219,6 @@
    margin-bottom: 142px;
    margin-right: 30px;
    font-size: 18px;
-   vertical-align: top;
-   text-align: left;
    background-color: #FFFFFF;
 
 }
@@ -229,31 +233,24 @@
     font-size: 25px;
     color: #274C5B;
     font-family: "Roboto", sans-serif;
-  font-weight: 800;
-  font-style: normal;
-      display: block;
-      padding-left: 22px;
-      padding-top: 29px;
-
-
-
- 
+    font-weight: 800;
+    font-style: normal;
+    margin-bottom: 20px;
+    padding-right: 83px;
+    padding-left: 22px;
+    padding-top: 29px; 
 }
 
 .return-policy-text {
-font-family: "Open Sans", sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 400;
   font-style: normal;
   font-size: 18px;
-  width: 184px;
   text-align: center;
-  margin: 20px auto 0 auto;
+  padding: 0px 37px 142px 36px;;
   line-height: 1.5;
-  display: block;
   color: #525C60;
-  margin-right: 36px;
-
-
 
 }
+
 
